@@ -4,7 +4,7 @@ Sakura Frp 定制版服务端安装程序
 支持的操作系统：CentOS 6/7、Ubuntu 14/16/18、Debian 8/9
 ### 一键安装
 ```bash
-wget --no-check-certificate "https://github.com/kasuganosoras/SakuraFrp-Install/raw/master/install-sakurafrp.sh"
+wget --no-check-certificate "https://raw.githubusercontent.com/kasuganosoras/SakuraFrp-Install/master/install-sakurafrp.sh"
 chmod +x install-sakurafrp.sh
 ./install-sakurafrp.sh
 ```
