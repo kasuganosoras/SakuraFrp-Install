@@ -10,6 +10,13 @@ chmod +x install-sakurafrp.sh
 ```
 安装过程只需要输入一些信息即可自动完成下载安装启动。
 
+如果服务器在国外，请使用以下命令安装。
+```bash
+wget --no-check-certificate "https://raw.githubusercontent.com/kasuganosoras/SakuraFrp-Install/master/install-sakurafrp-world.sh"
+chmod +x install-sakurafrp-world.sh
+./install-sakurafrp-world.sh
+```
+
 ### 管理命令
 启动 Sakura Frp 服务端
 ```bash
